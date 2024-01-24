@@ -1249,4 +1249,22 @@
 			margin-top: 0;
 			max-width: 25% !important;
 		}
+    
+    .sf-OldMyAccount-ggPMlRFTcwMlAMeDSFfk {
+        margin: 0 auto;
+    }
+    
+    .searchBoxOld-uKvVtLzPNdHp38hj3B13 .searchBoxOld-M1esqHPyWSuRUjMCALPK .searchBoxOld-r2qRRf3OCJ_znqQRxBlb {
+        padding: 0 2px 0 12px;
+    }
+    
+    .sf-OldHeader-EfZwOcqyx8rd3l1YQFzg .sf-OldHeader-L1qoqCDGcF7fMecp3DEC .sf-OldHeader-FpTYTu4Avgrxt5ZgRSEL {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .sf-OldMyAccount-ggPMlRFTcwMlAMeDSFfk,
+    .sf-OldHeader-EfZwOcqyx8rd3l1YQFzg .sf-OldHeader-L1qoqCDGcF7fMecp3DEC .sf-OldHeader-MSHyIpigOpMg8jl1slwR {
+        padding-top: 12px;
+    }
 }
